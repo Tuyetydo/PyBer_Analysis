@@ -18,6 +18,8 @@ In this dataframe that I was able to create with the data provided, there is ins
 
 ![PyBer_fare_summary](/Analysis/PyBer_fare_summary.png)
 
+The line chart provides a great visual on the relationship of total fares, fare cost, and month. There are similiar patterns of peaks and falls regardless of the type of community. 
+
 ### Summary
 Three business recommendations I would suggest based on the data:
 - I would suggest looking at idle time in the urban drivers because there was 1625 total rides with 2405 drivers so there was a significant number of extra drivers. 
